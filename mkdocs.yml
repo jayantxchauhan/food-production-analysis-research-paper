@@ -1,7 +1,7 @@
 # Details about the site
-site_name: "Ready to Research"
+site_name: "GitHub Repository Analysis"
 site_url: https://www.readytoresearch.com
-repo_url: https://github.com/ReadyResearchers/www.readytoresearch.com
+repo_url: https://github.com/ReadyResearchers/research-paper-template
 # Use any word, such as "Default" to ensure that
 # the copyright is rendered in the footer with a new partial
 copyright: Default
@@ -28,14 +28,14 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: indigo
+      primary: deep purple
       accent: deep orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
-      primary: indigo
+      primary: deep purple
       accent: deep orange
       toggle:
         icon: material/brightness-4
