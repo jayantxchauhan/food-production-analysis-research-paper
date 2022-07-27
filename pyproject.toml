@@ -12,6 +12,7 @@ mkdocs-minify-plugin = "^0.4.1"
 jupyterlab = "^3.4.3"
 pandas = "^1.4.3"
 jupyterlite = {version = "^0.1.0-beta.10", extras = ["all"]}
+matplotlib = "^3.5.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
