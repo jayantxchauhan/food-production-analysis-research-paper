@@ -1,5 +1,5 @@
 # Details about the site
-site_name: "Food Production Aanalysis"
+site_name: "Data Science Meets Agriculture"
 site_url: https://www.readytoresearch.com
 repo_url: https://github.com/JayantChauhan3/food-production-analysis-research-paper
 # Use any word, such as "Default" to ensure that
@@ -29,14 +29,14 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: indigo
+      primary: green
       accent: deep orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
-      primary: indigo
+      primary: green
       accent: deep orange
       toggle:
         icon: material/brightness-4
@@ -142,8 +142,8 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/ReadyResearchers
     # GitHub issue tracker
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/ReadyResearchers/www.readytoresearch.com/issues
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jayant-chauhan-b48805232/
     # GitHub discussions
     - icon: fontawesome/solid/comments
       link: https://github.com/ReadyResearchers/www.readytoresearch.com/discussions
