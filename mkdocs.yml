@@ -1,7 +1,7 @@
 # Details about the site
 site_name: "Food Production Aanalysis"
 site_url: https://www.readytoresearch.com
-repo_url: https://github.com/ReadyResearchers/research-paper-template
+repo_url: https://github.com/JayantChauhan3/food-production-analysis-research-paper
 # Use any word, such as "Default" to ensure that
 # the copyright is rendered in the footer with a new partial
 copyright: Default
@@ -14,6 +14,7 @@ theme:
   custom_dir: overrides
   # Define the logo for the top left-hand corner of the screen and collapsible menu
   logo: img/ready-to-research-logo-inverted.svg
+  
   # Define the favicon that displays in the tab of the browser
   favicon: img/main/ready-to-research-favicon-inverted.png
   # Define the logo for the repository for the top right-hand corner of the screen
@@ -80,7 +81,7 @@ markdown_extensions:
           generic: true
     # Display paragraph markers that exhibit as permalinks for section in a file
     - toc:
-        permalink: true
+        permalink: false
     # Highlight source code
     - codehilite
     - markdown.extensions.codehilite:
