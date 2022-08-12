@@ -9,7 +9,7 @@ hide:
 Write an overview of your methods.
 
 - [Video Game Analysis in Jupyter Lite](https://videogameanalysis.netlify.app/live/lab/index.html)
-- [Video Game Analysis in Google Colab](https://githubtocolab.com/hurb404/research-paper-template-saket)
+- [Video Game Analysis in Google Colab](https://colab.research.google.com/github/JayantChauhan3/food-production-analysis-research-paper/blob/master/files/data-science/foodproduction-analysis/basic-data-visualization-exploration-with-insights.ipynb)
 
 State the research questions:
 
