@@ -8,8 +8,9 @@ hide:
 
 Write an overview of your methods.
 
-- [Food Production and Population Analysis in Jupyter Lite](https://videogameanalysis.netlify.app/live/lab/index.html)
-- [Food Production and Population Analysis in Google Colab](https://colab.research.google.com/github/JayantChauhan3/food-production-analysis-research-paper/blob/master/files/data-science/foodproduction-analysis/basic-data-visualization-exploration-with-insights.ipynb)
+- [Food Production and Population Analysis in Jupyter Lite](https://food-production-analysis.netlify.app/live/lab/index.html)
+- [Food Production and Population Analysis in Google Colab](https://colab.research.google.com/github/JayantChauhan3/food-production-analysis-research-paper/blob/master/files/data-science/foodproduction-analysis/basic-data-visualization-exploration-with-insights.ipynb)(RECOMMENDED)
+
 
 State the research questions:
 
