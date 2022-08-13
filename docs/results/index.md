@@ -9,6 +9,7 @@ hide:
 Write the analysis of your results.
 
 - Answer to **RQ1**:
+![Screenshot](docs\img\Screenshot 2022-07-29 194024.png)
 - Answer to **RQ2**:
 - Answer to **RQ3**:
 
