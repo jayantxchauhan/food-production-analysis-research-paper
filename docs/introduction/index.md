@@ -15,5 +15,3 @@ The National Commission on Farmers (NCF) had expressed a similar worry in late 2
 
 The contributions of this research paper are as follows:
 
-- **Feature Set**: new features
-- **Software Tool**: a cool tool
