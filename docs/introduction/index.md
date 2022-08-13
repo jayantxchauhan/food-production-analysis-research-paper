@@ -13,5 +13,5 @@ hide:
 
 The National Commission on Farmers (NCF) had expressed a similar worry in late 2006, stating that in order to double annual foodgrain production from the current 210 million tonnes to 420 million tonnes within the next 10 years (by 2015), it would be necessary to grow at least 160 million tonnes of rice on 40 million ha and 100 million tonnes of wheat on 25 million ha. 160 million tonnes more will need to come from millets, pulses, and oil seeds. A further national objective is to increase vegetable and fruit production to above 300 million tonnes by 2015. The only way to accomplish these goals given the limited amount of land available for agriculture is by increasing production per acre of arable land and irrigation water.If the cost of production is to be acceptable and the prices of our agricultural products are to be competitive on a worldwide scale, factor productivity will need to be doubled. The size of the typical farm is decreasing, and over 80% of farm families fall into the marginal and small farmer groups.
 
-The contributions of this research paper are as follows:
+
 
