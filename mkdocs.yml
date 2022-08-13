@@ -166,7 +166,7 @@ nav:
   - Home: index.md
   - Introduction: introduction/index.md
   - Abstract: abstract/index.md
-  - Background: background/index.md
   - Methods: methods/index.md
   - Results: results/index.md
+  - Background: background/index.md
   - Discussion: discussion/index.md
