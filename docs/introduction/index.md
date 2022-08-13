@@ -6,7 +6,7 @@ hide:
 
 # Introduction
 
-<p align="center"><img src="https://github.com/JayantChauhan3/food-production-analysis-research-paper/blob/master/docs/img/crop.jpg?raw=true" width="800" alt="accessibility text">" 
+<p align="center"><img src="https://github.com/JayantChauhan3/food-production-analysis-research-paper/blob/master/docs/img/teaser-crop-production.jpg?raw=true" width="800" alt="accessibility text">" 
 </p>
 
  Food production sets the stage and establishes the foundation of food availability. The problem facing India, is to produce more and more from decreasing per capita arable land and irrigation water supplies and rising abiotic and biotic stressors, given that the country's population is predicted to exceed 1.5 billion by 2030. For its 1.15 billion people, India currently produces 230 million tonnes of cereals annually. The demands of farm animals are frequently disregarded when determining a person's daily food intake. In India, the current scenario is that, in addition to covering the needs of cattle and poultry, cereal output must be doubled by 2050 in order to feed the anticipated 1.8 billion people.
