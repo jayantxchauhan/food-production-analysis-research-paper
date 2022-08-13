@@ -23,7 +23,7 @@ hide:
 <h3  align="center">In the above graph, 190 million tonnes of RICE, paddy is produced in the year 2019.</h3>
 <p>-After analysing the amount of rice available per person is 190 million tonnes of rice divided by 1.36 billion people, comes down to 382 grams/daily(approx).</p>
 <p>-Rice is produced surplus india by 200%.</p>
-  <p align="center"><img src="https://raw.githubusercontent.com/JayantChauhan3/food-production-analysis-research-paper/master/docs/img/Screenshot%202022-08-13%20180706.png" width="800" alt="accessibility text">" 
+  <p align="center"><img src="https://raw.githubusercontent.com/JayantChauhan3/food-production-analysis-research-paper/master/docs/img/Screenshot%202022-08-13%20180706.png" width="800" alt="accessibility text">
 </p>
 <h3  align="center">In the above graph, 105 million tonnes of WHEAT is produced in the year 2019.</h3>
 <p>-After analysing the amount of wheat available per person is 105 million tonnes of wheat divided by 1.36 billion people, comes down to 211 grams/daily(approx).</p>
@@ -44,7 +44,7 @@ hide:
 <h3  align="center">In the above graph, 800 million tonnes of SUGAR is produced in the year 2019.</h3>
 <p>-After analysing the amount of SUGAR available per person is 800 million tonnes of SUGAR divided by 1.36 billion people, comes down to 1600 grams/daily(approx).</p>
 <p>-SUGAR is produced surplus in india by 600%.</p>
-  <p align="center"><img src="https://github.com/JayantChauhan3/food-production-analysis-research-paper/blob/master/docs/img/Screenshot%202022-08-13%20180924.png?raw=true" width="800" alt="accessibility text">" 
+  <p align="center"><img src="https://github.com/JayantChauhan3/food-production-analysis-research-paper/blob/master/docs/img/Screenshot%202022-08-13%20180924.png?raw=true" width="800" alt="accessibility text">
 </p>
 <h3  align="center">In the above graph, 170 million tonnes of VEGETABLE is produced in the year 2019.</h3>
 <p>-After analysing the amount of VEGETABLE available per person is 170 million tonnes of Vegetable divided by 1.36 billion people, comes down to 342grams/daily(approx).</p>
@@ -54,7 +54,7 @@ hide:
 <p>According to Dieticians: </p>
 <p>-150 grams of FRUIT/daily, 54 KG/annum</p>
 
- <p align="center"><img src="https://github.com/JayantChauhan3/food-production-analysis-research-paper/blob/master/docs/img/Screenshot%202022-08-13%20181050.png?raw=true" width="800" alt="accessibility text">" 
+ <p align="center"><img src="https://github.com/JayantChauhan3/food-production-analysis-research-paper/blob/master/docs/img/Screenshot%202022-08-13%20181050.png?raw=true" width="800" alt="accessibility text">
 </p>
 <h3  align="center">In the above graph, 110 million tonnes of FRUIT is produced in the year 2019.</h3>
 <p>-After analysing the amount of FRUIT available per person is 110 million tonnes of FRUIT divided by 1.36 billion people, comes down to 221 grams/daily(approx).</p>
