@@ -6,7 +6,9 @@ hide:
 
 # Background and Related Work
 
-Write a review of the background and the related work for your research paper.
+Food is a necessity for human survival. Before the 20th century, the food distribution system in the India and other nations was very localised. The scope and complexity of the food production and distribution networks increased as a result of the development of new technologies and better transportation. The modern food system is global in scope and extends from farmers to consumers. It is now more difficult to ensure its supply, nutritional sufficiency, and safety, and this calls for significant public and private sector initiatives.
+
+Food safety covers a broad range of concerns, including nutrition, food quality, labelling, and education in addition to avoiding foodborne pathogens, chemical toxins, and physical risks.All tiers of government, from the federal to the municipal, are involved in the Indian system for controlling the food supply.
 <h2>Citations & References</h2>
  1. <a href = "https://eprints.whiterose.ac.uk/110945/" rel="noopener" target="_blank">Food Security and Food Production Systems</a>
  2.  <a href = "https://www.cabdirect.org/cabdirect/abstract/19776717175" rel="noopener" target="_blank">
