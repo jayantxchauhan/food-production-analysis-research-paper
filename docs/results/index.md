@@ -58,5 +58,5 @@ hide:
 </p>
 <h3  align="center">In the above graph, 110 million tonnes of FRUIT is produced in the year 2019.</h3>
 <p>-After analysing the amount of FRUIT available per person is 110 million tonnes of FRUIT divided by 1.36 billion people, comes down to 221 grams/daily(approx).</p>
-<p>-FRUIT is produced surplus india by 33%.</p>
+<p>-FRUIT is produced surplus in india by 33%.</p>
 
