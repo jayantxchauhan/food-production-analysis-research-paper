@@ -47,16 +47,16 @@ hide:
   <p align="center"><img src="https://github.com/JayantChauhan3/food-production-analysis-research-paper/blob/master/docs/img/Screenshot%202022-08-13%20180924.png?raw=true" width="800" alt="accessibility text">" 
 </p>
 <h3  align="center">In the above graph, 170 million tonnes of VEGETABLE is produced in the year 2019.</h3>
-<p>-After analysing the amount of VEGETABLE available per person is 170 million tonnes of Vegetable divided by 1.36 billion people, comes down to grams/daily(approx).</p>
-<p>-SUGAR is produced surplus in india by 200%.</p>
+<p>-After analysing the amount of VEGETABLE available per person is 170 million tonnes of Vegetable divided by 1.36 billion people, comes down to 342grams/daily(approx).</p>
+<p>-VEGETABLE is produced surplus in india by 73%.</p>
 
 <h2>RQ3:Is india a fruit deficit country?</h2>
 <p>According to Dieticians: </p>
-<p>-100 grams of RICE/daily, 36 KG/annum</p>
+<p>-150 grams of FRUIT/daily, 54 KG/annum</p>
 
  <p align="center"><img src="https://github.com/JayantChauhan3/food-production-analysis-research-paper/blob/master/docs/img/Screenshot%202022-08-13%20181050.png?raw=true" width="800" alt="accessibility text">" 
 </p>
-<h3  align="center">In the above graph, 190 million tonnes of RICE, paddy is produced in the year 2019.</h3>
-<p>-After analysing the amount of rice available per person is 190 million tonnes of rice divided by 1.36 billion people, comes down to 382 grams/daily(approx).</p>
-<p>-Rice is produced surplus india by 200%.</p>
+<h3  align="center">In the above graph, 110 million tonnes of FRUIT is produced in the year 2019.</h3>
+<p>-After analysing the amount of FRUIT available per person is 110 million tonnes of FRUIT divided by 1.36 billion people, comes down to 221 grams/daily(approx).</p>
+<p>-FRUIT is produced surplus india by 33%.</p>
 
