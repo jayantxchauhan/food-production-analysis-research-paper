@@ -14,6 +14,6 @@ Write an overview of your methods.
 
 State the research questions:
 
-- **RQ1**: write out the first research question
-- **RQ2**: write out the second research question
-- **RQ3**: write out the third research question
+- **RQ1**:Is the production of major crops such as Rice, Wheat and Cereals sufficient?
+- **RQ2**:Are we consuming too much sugar as compared to vegetables?
+- **RQ3**:Is india a fruit deficit country?
