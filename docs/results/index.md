@@ -9,7 +9,7 @@ hide:
 Write the analysis of your results.
 
 - Answer to **RQ1**:
-![Screenshot](docs\img\Screenshot 2022-07-29 194024.png)
+ <img src="https://raw.githubusercontent.com/JayantChauhan3/food-production-analysis-research-paper/master/docs/img/Screenshot%202022-07-29%20194024.png" width="800" alt="accessibility text">
 - Answer to **RQ2**:
 - Answer to **RQ3**:
 
