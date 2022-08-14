@@ -22,7 +22,7 @@ hide:
 </p>
 <h3  align="center">In the above graph, 190 million tonnes of RICE, paddy is produced in the year 2019.</h3>
 <p>-After analysing the amount of rice available per person is 190 million tonnes of rice divided by 1.36 billion people, comes down to 382 grams/daily(approx).</p>
-<p>-Rice is produced surplus india by 200%.</p>
+<p>-Rice is produced surplus in india by 200%.</p>
   <p align="center"><img src="https://raw.githubusercontent.com/JayantChauhan3/food-production-analysis-research-paper/master/docs/img/Screenshot%202022-08-13%20180706.png" width="800" alt="accessibility text">
 </p>
 <h3  align="center">In the above graph, 105 million tonnes of WHEAT is produced in the year 2019.</h3>
